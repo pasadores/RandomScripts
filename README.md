@@ -4,7 +4,7 @@ Random utility shell scripts.
 
 ## Content
 * [Search](#Search)  **[WIP]**
-* [Organize](https://github.com/pasadores/RandomScripts/blob/master/organize_ALPHA.sh) **[WIP]**
+* [Organize](#Organize) **[WIP]**
 
 
 ## Search
