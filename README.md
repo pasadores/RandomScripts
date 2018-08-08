@@ -3,8 +3,8 @@ Random utility shell scripts.
 
 
 ## Content
-* [Search](##Search)  **[WIP]**
-* [Organize](##Organize) **[WIP]**
+* [Search](#search)  **[WIP]**
+* [Organize](#organize) **[WIP]**
 
 
 ## Search
