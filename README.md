@@ -39,7 +39,7 @@ the folders in case that they contain junk. (For example "readme.txt" and urls n
 Organizes the files from a folder. Intended to use in clumsy "download" folders or similar. It whill sort all your files in different folders.
 One for each extension. 
 #### Usage
-Use the script on the folder you want to organize. You **MUST** copy the script in the folder. 
+Use the script on the folder you want to organize. You **MUST** copy the script into the folder. 
 
 #### TODO
 * Allow passing the path to the folder to organize as an argument. 
